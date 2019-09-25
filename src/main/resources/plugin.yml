@@ -1,6 +1,7 @@
 name: ${plugin.name}
 main: ${plugin.groupID}.${plugin.name.lower}.${plugin.name}
 version: ${plugin.version}
+api-version: 1.13
 description: ${project.description}
 author: chaseoes
 dev-url: http://dev.bukkit.org/server-mods/${plugin.name.lower}/
